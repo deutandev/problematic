@@ -1,4 +1,4 @@
-## Problematic
+# Problematic
 ### *Problem Solving assignment from Agate Academy*
 
 ## Problem 1
