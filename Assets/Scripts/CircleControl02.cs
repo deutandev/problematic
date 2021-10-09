@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CircleControl : MonoBehaviour
+public class CircleControl02 : MonoBehaviour
 {
     // Variabel kecepatan lingkaran, gaya awal sumbu x, dan gaya awal sumbu y
     public float speed;
