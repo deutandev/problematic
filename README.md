@@ -12,3 +12,7 @@ Now the circle is moving to random direction with constant velocity (with normal
 ## Problem 3
 ![Problem 3](git-resources/p3.gif)  
 Add walls where the circle will bounce.
+
+## Problem 4
+![Problem 4](git-resources/p4.gif)  
+Keyboard movement.
