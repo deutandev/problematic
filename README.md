@@ -3,16 +3,20 @@
 
 ## Problem 1
 ![Problem 1](git-resources/p1.png)  
-Just a circle in the center.
+Hanya sebuah lingkaran di tengah layar...
 
 ## Problem 2
 ![Problem 2](git-resources/p2.png)  
-Now the circle is moving to random direction with constant velocity (with normalized vector)...
+... sekarang lingkarannya bergerak ke arah acak. Kecepatan konstan dengan vektor gerak yang di-*normalize*.
 
 ## Problem 3
 ![Problem 3](git-resources/p3.gif)  
-Add walls where the circle will bounce.
+Tambah dinding di sekeliling layar. Lingkaran akan memantul kalo nabrak.
 
 ## Problem 4
 ![Problem 4](git-resources/p4.gif)  
-Keyboard movement.
+Gerakkan lingkaran dengan tombol arah.
+
+## problem 5
+![Problem 5](git-resources/p5.gif)  
+Lingkaran bergerak mengikuti letak touch kursor (atau klik maksudnya).
