@@ -9,7 +9,7 @@ public class CircleControl02 : MonoBehaviour
     public float initialForceX;
 	public float initialForceY;
     
-	private Rigidbody2D rigidbody2D;
+	private new Rigidbody2D rigidbody2D;
 
 	// Start is called before the first frame update
 	void Start()
