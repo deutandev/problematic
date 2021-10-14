@@ -20,3 +20,7 @@ Gerakkan lingkaran dengan tombol arah.
 ## problem 5
 ![Problem 5](git-resources/p5.gif)  
 Lingkaran bergerak mengikuti letak touch kursor (atau klik maksudnya).
+
+## Problem 6
+![Problem 6](git-resources/p6.png)  
+Spawn box dengan jumlah dan posisi acak. (Mengimplementasikan Object Pooling)
