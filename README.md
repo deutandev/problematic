@@ -24,3 +24,8 @@ Lingkaran bergerak mengikuti letak touch kursor (atau klik maksudnya).
 ## Problem 6
 ![Problem 6](git-resources/p6.png)  
 Spawn box dengan jumlah dan posisi acak. (Mengimplementasikan Object Pooling)
+
+## Problem 7
+![Problem 7](git-resources/p7.gif)  
+Box hilang dari layar setelah ditabrak lingkaran -> SetActive(false)  
+Menambah skor setelah menabrak box.  
