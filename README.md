@@ -29,3 +29,7 @@ Spawn box dengan jumlah dan posisi acak. (Mengimplementasikan Object Pooling)
 ![Problem 7](git-resources/p7.gif)  
 Box hilang dari layar setelah ditabrak lingkaran -> SetActive(false)  
 Menambah skor setelah menabrak box.  
+
+## Problem 8
+![Problem 8](git-resources/p8.gif)  
+Box muncul kembali setelah 3 detik menghilang ditabrak circle.  
