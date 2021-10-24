@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 481d00b1d31fd0516b02eda292d38d0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 7280438029444144734, guid: b86c5f3f5a122d2ffa422c349732970b, type: 3}
+  prefab: {fileID: 7280438029444144734, guid: 018678a572528aaa6bae39839baabd0a, type: 3}
   leftWall: {fileID: 1667815784}
   rightWall: {fileID: 458918489}
   bottomWall: {fileID: 309642990}
