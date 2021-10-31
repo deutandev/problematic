@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Circle
   - Box
+  - Bullet
+  - Wall
   layers:
   - Default
   - TransparentFX
