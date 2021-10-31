@@ -8,7 +8,7 @@ public class BoxManager : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.tag == "Circle")
+        if (col.gameObject.tag == "Circle" || col.gameObject.tag == "Bullet")
         {
             // Debug.Log("Collide with Circle"); // Check collide event
             box.SetActive(false);

@@ -33,3 +33,7 @@ Menambah skor setelah menabrak box.
 ## Problem 8
 ![Problem 8](git-resources/p8.gif)  
 Box muncul kembali setelah 3 detik menghilang ditabrak circle.  
+
+## Problem 9
+![Problem 9](git-resources/p9.gif)  
+Game top-down shooter. 
